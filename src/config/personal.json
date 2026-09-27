@@ -1,0 +1,15 @@
+[
+    {
+        "tipo": "Cajero",
+        "nombre": "Polo",
+        "telefono": "1231",
+        "direccion": "Duler",
+        "pais": "Falia",
+        "rfc": "1241vq3",
+        "numeroCaja": "",
+        "ocupacion": "",
+        "tipoCuenta": "",
+        "claveAcceso": "",
+        "sucursal": "Piolin"
+    }
+]
