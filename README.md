@@ -40,6 +40,9 @@ El programa permite:
 - Consultar y modificar información.
 - Guardar información utilizando archivos JSON.
 
+<img width="603" height="638" alt="Screenshot 2026-09-29 at 8 39 10 a m" src="https://github.com/user-attachments/assets/7b78ac87-b8aa-4381-91b8-b45f87ef8606" />
+
+
 ### Contribuciones
 
 ***¡Las contribuciones son bienvenidas! Si deseas ayudar a mejorar este proyecto, puedes seguir estos pasos:***
